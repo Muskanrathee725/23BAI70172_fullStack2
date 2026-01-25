@@ -1,0 +1,36 @@
+.dashboard-header{
+    background-color:rgb(59, 62, 62);
+    backdrop-filter: blur(100px);
+    padding: 1rem;
+    width: 50%;
+    margin-left: 390px;
+    text-align: center;
+    margin-top: 70px;
+    color: white;
+    border: 5px solid white;
+    border-radius: 4px;
+    box-shadow: 8px 8px 15px rgba(0, 0, 0, 0.1);
+}
+
+.dashboard-nav{
+    background-color:rgba(112, 128, 144, 0.7);
+    backdrop-filter: blur(10px); /* This creates the frost effect */
+    border-radius: 15px;
+    padding: 0.5rem;
+    display: flex;
+    justify-content: space-around;
+    height: 80px;
+    align-items: center;
+   
+
+}
+.nav-link {
+   color: white;
+    text-decoration: none;
+}
+.nav-link:hover {
+    text-decoration: underline;
+}
+.dashboard-content{
+    padding: 2rem;
+}
