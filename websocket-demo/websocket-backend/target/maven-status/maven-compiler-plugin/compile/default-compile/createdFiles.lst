@@ -1,0 +1,6 @@
+com\example\websocketdemo\controller\MessageController.class
+com\example\websocketdemo\listener\WebSocketEventListener.class
+com\example\websocketdemo\WebSocketDemoApplication.class
+com\example\websocketdemo\model\ClientMessage.class
+com\example\websocketdemo\config\WebSocketConfig.class
+com\example\websocketdemo\model\ServerMessage.class
